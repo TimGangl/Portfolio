@@ -1,0 +1,39 @@
+.collapse{
+  padding-right: 16%;
+}
+
+.name{
+  margin-left: 16%;
+}
+
+.overlay{
+  position: absolute;
+  width: fit-content;
+  z-index: 1;
+  background: dimgray;
+  color:white;
+  text-align: center;
+  font-size: medium;
+  bottom: -40px;
+}
+
+.thumb{
+  position: relative;
+  display: inline;
+  padding-bottom: -20px;
+  
+
+}
+
+.thumbnail:hover{
+  opacity: .5;
+}
+
+input{
+  margin: 13px;
+  width: 99%;
+}
+
+textarea{
+  width: 100%;
+}
