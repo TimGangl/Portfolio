@@ -1,57 +1,58 @@
-.collapse{
+.collapse {
   padding-right: 16%;
 }
 
-.name{
+.name {
   margin-left: 16%;
 }
 
-.overlay{
+.overlay {
   position: absolute;
   width: fit-content;
   z-index: 1;
   background: dimgray;
-  color:white;
+  color: white;
   text-align: center;
   font-size: medium;
   bottom: -40px;
 }
 
-.thumb{
+.thumb {
   position: relative;
   display: inline;
   padding-bottom: -20px;
 }
 
-.thumbnail:hover{
-  opacity: .5;
+.thumbnail:hover {
+  opacity: 0.5;
 }
 
-input{
+input {
   margin: 13px;
   width: 99%;
 }
 
-textarea{
+textarea {
   width: 100%;
 }
 
-footer{
-margin-top: 15px;
+footer {
+  margin-top: 15px;
 }
 
-#skills, #portfolio{
+#skills,
+#portfolio {
   margin-bottom: 60px;
 }
 
-#box{
-  box-shadow: 0px 10px 4px 0px rgba(0,0,0,0.75);
+#box {
+  box-shadow: 0px 8px 4px 1px rgba(0, 0, 0, 0.75);
 }
 
-#box2{
-  box-shadow: 0px 5px 4px 0px rgba(0,0,0,0.75);
+#box2 {
+  box-shadow: 0px 5px 4px 0px rgba(0, 0, 0, 0.75);
 }
 
-.img-fluid{
-margin-bottom: 5px;
+.img-fluid {
+  margin-bottom: 5px;
 }
